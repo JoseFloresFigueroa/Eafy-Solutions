@@ -1,4 +1,5 @@
 # Eafy-Solutions
+![alt text](https://drive.google.com/file/d/1OhW5W77YLFS6XHBm3Lt5Ba9EwNbJi51d/view?usp=sharing)
 ## Proyecto de Planeación de Sistemas de Software TC3004B
 
 ### Sobre el Proyecto
