@@ -1,6 +1,8 @@
 # Eafy-Solutions
 ## Proyecto de Planeación de Sistemas de Software TC3004B
 
+### Sobre el Proyecto
+
 ### Sobre Nosotros
 
 #### Misión
