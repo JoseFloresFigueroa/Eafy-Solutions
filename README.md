@@ -12,7 +12,7 @@ Esto con la finalidad de que la información sea procesada y pueda ser consultad
 ### Sobre Nosotros
 
 #### Misión
-Somos una oficina enfocada en desarrollar soluciones de software confiables dentro del rubro financiero. Nos encargamos de crear sistemas eficientes que facilitan la operación de la empresa. Creemos firmemente en la importancia de desarrollar aplicaciones simples y sencillas que hagan fácil la interacción del cliente con nuestros sistemas. 
+Creemos en la gran importancia del desarrollo de software para facilitar y modernizar el trabajo en el nuevo siglo, por lo que nos apasiona ser parte de los nuevos cambios que traerá . Somos una oficina enfocada en desarrollar soluciones de software confiables dentro del rubro financiero. Nos encargamos de crear sistemas eficientes que faciliten la operación de la empresa. 
 
 #### Visión
 Contar con un espacio confiable y eficaz que ofrezca soluciones sólidas para permitir al cliente expandir su margen de negocio y el contar con nuevas oportunidades de conexión y organización para su propia misión.
