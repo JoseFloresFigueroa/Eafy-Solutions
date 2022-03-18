@@ -1,5 +1,5 @@
 # Eafy-Solutions
-![alt text](https://github.com/[JoseFloresFigueroa]/[Eafy-Solutions]/blob/[main]/Eafy Solutions Logo.png?raw=true)
+![alt text](https://github.com/[JoseFloresFigueroa]/[Eafy-Solutions]/blob/[main]/Eafy Solutions LOGO.png?raw=true)
 ## Proyecto de Planeación de Sistemas de Software TC3004B
 
 ### Sobre el Proyecto
