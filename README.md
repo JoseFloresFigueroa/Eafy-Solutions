@@ -3,9 +3,9 @@
 
 ### Sobre el Proyecto
 Se solicita el desarrollo de una aplicación para iOS y una página web que almacene la información de reportes de contaduría en una base de datos que ofrecerá Flex BPO como servicio. Se generarán 3 tipos de reportes:
-- Estado de resultados.
-- Balance general.
-- Balance de comprobación.
+- Estado de resultados
+- Balance general
+- Balance de comprobación
 
 ### Sobre Nosotros
 
