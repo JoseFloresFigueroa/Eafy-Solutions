@@ -7,6 +7,8 @@ Se solicita el desarrollo de una aplicación para iOS y una página web que alma
 - Balance general
 - Balance de comprobación
 
+Esto con la finalidad de que la información sea procesada y pueda ser consultada por los responsables de la empresa cliente. 
+
 ### Sobre Nosotros
 
 #### Misión
