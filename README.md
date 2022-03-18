@@ -27,4 +27,5 @@ Contar con un espacio confiable y eficaz que ofrezca soluciones sólidas para pe
 - Puntualidad
 
 ### Anexos
+#### Documentación completa: https://drive.google.com/file/d/1I-6fHRf1lHybeuB6dgtAal29DE59SbDX/view?usp=sharing
 #### WBS: https://www.gloomaps.com/geTRyannMs
