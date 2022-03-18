@@ -2,7 +2,6 @@
 ## Proyecto de Planeación de Sistemas de Software TC3004B
 
 ### Sobre el Proyecto
-
 Se solicita el desarrollo de una aplicación para iOS y una página web que almacene la información de reportes de contaduría en una base de datos que ofrecerá Flex BPO como servicio. Se generarán 3 tipos de reportes:
 - 
 
